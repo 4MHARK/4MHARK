@@ -36,32 +36,4 @@ I enjoy problem-solving, debugging, and creating meaningful digital experiences.
   <img src="https://skillicons.dev/icons?i=docker" width="45" />
 </p>
 
----
 
-## 📊 GitHub Stats
-
-### 🔥 Overall Performance
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=4MHARK&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight" 
-  />
-</p>
-
-### 🔥 Most Used Languages
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=4MHARK&langs_count=8&layout=compact&hide_border=true&theme=tokyonight" 
-  />
-</p>
-
-### 🔥 Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4MHARK&theme=default&hide_border=true" />
-</p>
-
----
-
-## 👀 Visitor Counter
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=4MHARK&style=for-the-badge" />
-</p>
