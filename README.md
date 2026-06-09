@@ -22,10 +22,4 @@ const ademolaDavidMark: Record<string, any> = {
 
 </div>
 
----
 
-<div align="center">
-
-⭐️ If you find my work interesting, feel free to star my repositories!
-
-</div>
