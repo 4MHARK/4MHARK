@@ -1,6 +1,7 @@
 ```typescript
-const ademolaDavidMark: Record<string, any> = {
-  title: "Software Engineer",
+const
+ademolaDavidMark: Record<string, any> = {
+title: "Software Engineer",
   contact: {
     gmail: "ademoladav713@gmail.com",
     gitHub: "4MHARK",
