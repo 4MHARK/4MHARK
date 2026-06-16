@@ -1,6 +1,6 @@
 ```typescript
 const
-ademolaDavidMark: Record<string, any> = {
+ademola_David_Mark: Record<string, any> = {
 title: "Software Engineer",
   contact: {
     gmail: "ademoladav713@gmail.com",
